@@ -135,7 +135,7 @@ h1 em{color:var(--accent)}
 }
 .cta-dark{
   width:100%;
-  background:var(--dark);
+  background:#25D366;
   color:#fff;
 }
 .cta-light{
