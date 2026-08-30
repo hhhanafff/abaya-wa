@@ -130,7 +130,7 @@ h1 em{color:var(--accent)}
 .cta span{font-size:19px}
 .cta-primary{
   min-width:300px;
-  background:var(--accent);
+  background:#25D366;
   color:#fff;
 }
 .cta-dark{
