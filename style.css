@@ -154,7 +154,6 @@ h1 em{color:var(--accent)}
   justify-self:end;
 }
 .hero-visual img{
-  aspect-ratio:1/1;
   object-fit:cover;
   box-shadow:var(--shadow);
 }
